@@ -1,7 +1,7 @@
 # Привет!
 
 ## Это я  
-![фото](/img/photo.jpg)
+<img src="/img/photo.jpg" height="300" />
 
 ## Навыки:  
 - HTML, CSS
