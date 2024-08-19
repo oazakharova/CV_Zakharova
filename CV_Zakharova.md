@@ -24,7 +24,7 @@
 4. Snake game
 - Vanilla JS project
 - [ссылка на gitpages](https://oazakharova.github.io/snakeGame)
-- [ссылка на репозиторий на github](https://github.com/oazakharova/snakeGame)
+- [ссылка на репозиторий на github](https://github.com/oazakharova/snakeGame)<br>
 ![скриншот](/img/snakeGameImg.JPG)
 <br>
 
