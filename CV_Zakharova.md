@@ -1,33 +1,40 @@
-# Привет!
+# Hello world!
+<img src="/img/photo.jpg" height="150" />
 
-## Это я  
-<img src="/img/photo.jpg" height="300" />
+## The portfolio:
 
-## Навыки:  
+1. Book Library App (React, Redux, Express)
+- Adding your own book, a random book from a local json file, or a random book via API (a simple express server) with a time delay
+- Filtering books, adding to favorites and deleting from favorites, deleting the book from the created list of books
+- [ссылка на github](https://github.com/oazakharova/book-library-app)
+- ![скриншот](/img/book-library-app.png)
+
+2. The responsive online store (React, Context API, Express)
+- [ссылка на github](https://github.com/oazakharova/home-accessories-store)
+
+3. Guess a number game (Vanilla JS project)
+- [ссылка на gitpages](https://oazakharova.github.io/guessNumberGame)
+- [ссылка на репозиторий на github](https://github.com/oazakharova/guessNumberGame)
+- ![скриншот](/img/guessNumberGameImg.jpg)
+
+4. Snake game
+- Vanilla JS project
+- [ссылка на gitpages](https://oazakharova.github.io/snakeGame)
+- [ссылка на мой репозиторий на github](https://github.com/oazakharova/snakeGame)
+- ![скриншот](/img/snakeGameImg.JPG)
+
+5. The responsive clothing online store
+- Vanilla JS project
+- [ссылка на gitpages](https://oazakharova.github.io/onlineClothingStore)
+- ![скриншот](/img/brandShopImg.JPG)
+
+## Skills:
 - HTML, CSS
-- препроцессоры
-- JavaScript, jQuery, React
-- GIT
-- SQL
+- JavaScript, jQuery
+- React
 - Figma, PixelPerfect
-- английский язык на уровне B2
-- высокий уровень самостоятельной организации рабочего процесса
+- Docker
+- SQL
+- Postman
 
-## Портфолио:
-1. адаптивный интернет-магазин ресторана (включая меню, слайдер, отзывы) - [ссылка на github](https://oazakharova.github.io/burgur-delivery/)
-   - ![скриншот](/img/burgur-1.png)
-   - ![скриншот](/img/burgur-2.png)
-2. адаптивный интернет-магазин одежды (с корзиной) - [ссылка на gitpages](https://oazakharova.github.io/onlineClothingStore/)
-    - ![скриншот](/img/brandShopImg.JPG)
-3. адаптивный интернет-магазин - [ссылка на мой репозиторий на github](https://github.com/oazakharova/furniture-avehi)
-    - ![скриншот](/img/furnitureAvejiImg.jpg)
-4. игра Крестики-нолики - [ссылка на мой репозиторий на github](https://github.com/oazakharova/tictaktoe)      
-    - ![скриншот](/img/tikTacToeImg.JPG)
-5. игра Змейка - [ссылка на gitpages](https://oazakharova.github.io/snakeGame/)
-    - [ссылка на мой репозиторий на github](https://github.com/oazakharova/snakeGame)
-    - ![скриншот](/img/snakeGameImg.JPG)
-6. игра Быки и коровы - [ссылка на мой репозиторий на github](https://github.com/oazakharova/cowsAndBullsGame)
-    - ![скриншот](/img/cowsAndBullsGameImg.JPG)    
-7. игра Угадай число - [ссылка на gitpages](https://oazakharova.github.io/guessNumberGame/)
-    - [ссылка на мой репозиторий на github](https://github.com/oazakharova/guessNumberGame)
-    - ![скриншот](/img/guessNumberGameImg.jpg)
+
