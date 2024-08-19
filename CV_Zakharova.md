@@ -28,7 +28,7 @@
 ![скриншот](/img/snakeGameImg.JPG)
 <br>
 
-1. The responsive clothing online store
+5. The responsive clothing online store
 - Vanilla JS project
 - [ссылка на gitpages](https://oazakharova.github.io/onlineClothingStore)<br>
 ![скриншот](/img/brandShopImg.JPG)
