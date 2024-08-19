@@ -24,11 +24,11 @@
 4. Snake game
 - Vanilla JS project
 - [ссылка на gitpages](https://oazakharova.github.io/snakeGame)
-- [ссылка на мой репозиторий на github](https://github.com/oazakharova/snakeGame)
+- [ссылка на репозиторий на github](https://github.com/oazakharova/snakeGame)  
 ![скриншот](/img/snakeGameImg.JPG)
 <br>
 
-1. The responsive clothing online store
+5. The responsive clothing online store
 - Vanilla JS project
 - [ссылка на gitpages](https://oazakharova.github.io/onlineClothingStore)
 ![скриншот](/img/brandShopImg.JPG)
