@@ -8,7 +8,7 @@
 - Adding your own book, a random book from a local json file, or a random book via API (a simple express server) with a time delay
 - Filtering books, adding to favorites and deleting from favorites, deleting the book from the created list of books
 - [ссылка на github](https://github.com/oazakharova/book-library-app)
-- ![скриншот](/img/book-library-app.png)
+![скриншот](/img/book-library-app.png)
 <br>
 
 2. The responsive online store (React, Context API, Express)
@@ -18,20 +18,20 @@
 3. Guess a number game (Vanilla JS project)
 - [ссылка на gitpages](https://oazakharova.github.io/guessNumberGame)
 - [ссылка на репозиторий на github](https://github.com/oazakharova/guessNumberGame)
-- ![скриншот](/img/guessNumberGameImg.jpg)
+![скриншот](/img/guessNumberGameImg.jpg)
 <br>
 
 4. Snake game
 - Vanilla JS project
 - [ссылка на gitpages](https://oazakharova.github.io/snakeGame)
 - [ссылка на мой репозиторий на github](https://github.com/oazakharova/snakeGame)
-- ![скриншот](/img/snakeGameImg.JPG)
+![скриншот](/img/snakeGameImg.JPG)
 <br>
 
-5. The responsive clothing online store
+1. The responsive clothing online store
 - Vanilla JS project
 - [ссылка на gitpages](https://oazakharova.github.io/onlineClothingStore)
-- ![скриншот](/img/brandShopImg.JPG)
+![скриншот](/img/brandShopImg.JPG)
 <br>
 
 ## Skills:
