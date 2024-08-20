@@ -13,6 +13,7 @@
 
 2. The responsive online store (React, Context API, Express)
 - [ссылка на github](https://github.com/oazakharova/home-accessories-store)
+- ![скриншот](/img/accessories-store.png)
 <br>
 
 3. Guess a number game (Vanilla JS project)
